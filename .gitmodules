@@ -1,0 +1,6 @@
+[submodule "submodules_testing"]
+	path = submodules_testing
+	url = https://github.com/alex078567/submodules_testing
+[submodule "git_working"]
+	path = git_working
+	url = C:\\Users\\User\\git_working
